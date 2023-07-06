@@ -1,4 +1,4 @@
-# mi_card_pro
+# business_card_design
 
 A new Flutter project.
 
